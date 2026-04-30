@@ -1,4 +1,10 @@
 package com.hugonavarro.ejerciciosdocumentacion.futbol;
 
-public class Accion {
+/**
+ * Acciones que haría un jugador.
+ */
+public enum Accion {
+    PASE,
+    REGATE,
+    TIRO
 }
